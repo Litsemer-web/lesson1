@@ -1,0 +1,2 @@
+name = "Кирилл"
+print(name)
